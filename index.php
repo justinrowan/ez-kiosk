@@ -11,7 +11,8 @@
 
     <!-- Bootstrap 4 & CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href=/css/stylesheet.css">
+    <link rel="stylesheet" href="/css/stylesheet.css">
+
     <title><?php echo $title ?></title>
 </head>
 <body>
@@ -21,9 +22,9 @@
     <p>World</p>
 
 
-    <script src="js/jquery-3.2.1.slim.min.js"</script>
-    <script src="js/popper.min.js"</script>
-    <script src="js/bootstrap.min.js"</script>
-  </body>
+    <script src="/js/jquery-3.2.1.slim.min.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+</body>
 </body>
 </html>

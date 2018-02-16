@@ -16,7 +16,6 @@
     <title><?php echo $title ?></title>
 </head>
 <body>
-    <body style="background-color:#3B3A3F;">
 
     <h1>Hello</h1>
     <p>World</p>

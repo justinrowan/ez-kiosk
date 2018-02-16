@@ -11,7 +11,7 @@
 
     <!-- Bootstrap 4 CSS -->
     <link rel="stylesheet" href="css/boostrap.min.css"
-    <title>Test</title>
+    <title><?php echo $title ?></title>
 </head>
 <body>
 
